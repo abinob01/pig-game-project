@@ -69,6 +69,7 @@ h1 {
   border: none;
   border-radius: 1rem;
   padding: 10px;
+  text-align: center;
 }
 
 .currentScore {
@@ -110,4 +111,8 @@ h1 {
 }
 .btn-hold {
   top: 44.5rem;
+}
+
+.hidden {
+  opacity: 0;
 }
